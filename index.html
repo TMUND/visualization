@@ -13,7 +13,7 @@
         var dataset = [];
 
         for (var i = 0; i <= 26; i++) {
-            var newNumber = Math.random() * 30;
+            var newNumber = Math.round(Math.random() * 30);
             
             dataset.push(newNumber);
         }
@@ -28,5 +28,13 @@
                 return barHeight + 'px';
             });
     </script>
+
+    <svg>
+        <circle cx="25" cy="25" r="20" fill="rgba(128, 0, 128, 1.0)"/>
+        <circle cx="50" cy="25" r="20" fill="rgba(0, 0, 255, 0.75)"/>
+        <circle cx="75" cy="25" r="20" fill="rgba(0, 255, 0, 0.5)"/>
+        <circle cx="100" cy="25" r="20" fill="rgba(255, 255, 0, 0.25)"/>
+        <circle cx="125" cy="25" r="20" fill="rgba(255, 0, 0, 0.1)"/>
+    </svg>
     </body>
 </html>

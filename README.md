@@ -1,4 +1,4 @@
-Create a visualization
+Create an interactive visualization
 
 ## TODO:
 

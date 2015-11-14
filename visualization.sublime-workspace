@@ -4,106 +4,30 @@
 		"selected_items":
 		[
 			[
-				"sele",
-				"selectAll"
-			],
-			[
-				"data",
-				"dataset"
-			],
-			[
-				"mar",
-				"margin-bottom"
-			],
-			[
-				"list",
-				"list-style-type"
-			],
-			[
-				"inline",
-				"inline-block"
-			],
-			[
-				"change",
-				"changeContent"
-			],
-			[
-				"margin",
-				"margin-top"
-			],
-			[
-				"back",
-				"background-color"
-			],
-			[
-				"c",
-				"color"
-			],
-			[
-				"padding",
-				"padding-left"
-			],
-			[
-				"border-r",
-				"border-right"
-			],
-			[
-				"paddin",
-				"padding-top"
-			],
-			[
-				"bott",
-				"text-bottom"
-			],
-			[
-				"font",
-				"font-size"
-			],
-			[
-				"border",
-				"border-bottom"
-			],
-			[
-				"background",
-				"background-color"
-			],
-			[
 				"backgroun",
 				"background-color"
 			],
 			[
-				"marg",
-				"margin-right"
+				"pulse",
+				"pulseTimer2"
 			],
 			[
-				"inl",
-				"inline-block"
+				"pulseTimer",
+				"pulseTimer2"
+			],
+			[
+				"clock",
+				"clockDiv"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "visualization.sublime-project",
 			"settings":
 			{
-				"buffer_size": 2479,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "main.css",
-			"settings":
-			{
-				"buffer_size": 164,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "main.js",
-			"settings":
-			{
-				"buffer_size": 389,
+				"buffer_size": 336,
 				"line_ending": "Unix"
 			}
 		}
@@ -111,129 +35,126 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 67.0,
+		"height": 47.0,
 		"selected_items":
 		[
 			[
-				"jsh",
-				"JSHint"
-			],
-			[
 				"Snippet: ",
-				"Snippet: separator"
+				"Snippet: #!/usr/bin/env"
 			],
 			[
-				"pa",
-				"Package Control: Install Package"
-			],
-			[
-				"pack",
-				"Package Control: Install Package"
-			],
-			[
-				"packa",
-				"Package Control: Enable Package"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Disable Package"
-			],
-			[
-				"packag",
-				"Package Control: Disable Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
+				"syntax ja",
+				"Set Syntax: JavaScript"
 			],
 			[
 				"syntcss",
 				"Set Syntax: CSS"
 			],
 			[
-				"syntajs",
+				"synthtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"syntax java",
 				"Set Syntax: JavaScript"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synthtl",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntjac",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
 			],
 			[
 				"syntht",
 				"Set Syntax: HTML"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
+				"view",
+				"View: Toggle Status Bar"
 			],
 			[
-				"control",
-				"Package Control: Install Package"
+				"vie",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
 			]
 		],
-		"width": 475.0
+		"width": 392.0
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 167.0
 	},
 	"distraction_free":
 	{
 		"menu_visible": true,
-		"show_minimap": false,
-		"show_open_files": false,
+		"show_minimap": true,
+		"show_open_files": true,
 		"show_tabs": false,
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
 	"file_history":
 	[
-		"/Users/toni/Desktop/projects/angularjs-practice/index.html",
-		"/Users/toni/Desktop/projects/angularjs-practice/angularpractice.sublime-project",
-		"/Users/toni/Desktop/projects/sandbox/sandbox/img/catday.jpg",
-		"/Users/toni/Desktop/projects/sandbox/sandbox/.jshintrc",
-		"/Users/toni/Library/Application Support/Sublime Text 2/Packages/User/separator.sublime-snippet",
-		"/Users/toni/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/toni/Desktop/projects/sandbox/sandbox/index.html",
-		"/Users/toni/Desktop/projects/sandbox/sandbox/main.css",
-		"/Users/toni/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
-		"/Users/toni/Desktop/projects/sandbox/sandbox/sandbox.sublime-project",
-		"/Users/toni/Desktop/projects/sandbox/sandbox/lib/main.css",
-		"/Users/toni/Desktop/projects/sandbox/sandbox/.gitignore",
-		"/Users/toni/Desktop/projects/sandbox/sandbox/lib/jquery-2.1.4.js",
-		"/Users/toni/Desktop/projects/sandbox/sandbox/package.json",
-		"/Users/toni/Desktop/projects/sandbox/sandbox/Gruntfile.js",
-		"/Users/toni/Desktop/projects/sandbox/sandbox/main.js",
-		"/Users/toni/Desktop/projects/sandbox/sandbox/README.md",
-		"/Users/toni/Library/Application Support/Sublime Text 2/Packages/JSLint/JSLint.sublime-settings",
-		"/Users/toni/Desktop/projects/bronksknifeworks/index.html",
-		"/Users/toni/Desktop/projects/bronksknifeworks/gallery.html",
-		"/Users/toni/Desktop/projects/bronksknifeworks/classes.html",
-		"/Users/toni/Desktop/projects/bronksknifeworks/friends.html",
-		"/Users/toni/Desktop/projects/bronksknifeworks/contact.html",
-		"/Users/toni/Desktop/projects/bronksknifeworks/videos.html",
-		"/Users/toni/Desktop/projects/bronksknifeworks/products.html",
-		"/Users/toni/Desktop/projects/bronksknifeworks/about.html",
-		"/Users/toni/Desktop/projects/bronksknifeworks/css/simple-sidebar.css",
-		"/Users/toni/Desktop/projects/bronksknifeworks/README.md",
-		"/Users/toni/Library/Application Support/Sublime Text 2/Packages/User/JSLint.sublime-settings",
-		"/Users/toni/Desktop/projects/bronksknifeworks/main.js",
-		"/Users/toni/Desktop/projects/bronksknifeworks/main.css",
-		"/Users/toni/Desktop/projects/bronksknifeworks/index2.html",
-		"/Users/toni/Desktop/projects/bronksknifeworks/index3.html",
-		"/Users/toni/Desktop/projects/bronksknifeworks/bronksknifeworks.sublime-project",
 		"/Users/toni/Desktop/projects/bronksknifeworks/.gitignore",
-		"/Users/toni/Desktop/projects/examplecode/collapsemenu",
-		"/Users/toni/Desktop/projects/knifesite/README.md",
-		"/Users/toni/Desktop/projects/knifesite/.gitignore",
-		"/Users/toni/Desktop/projects/carousel/main.js",
-		"/Users/toni/Desktop/projects/carousel/lib/slick/README.markdown",
-		"/Users/toni/Desktop/projects/carousel/package.json",
-		"/Users/toni/Desktop/projects/carousel/index.js",
-		"/Users/toni/Desktop/projects/carousel/carousel.sublime-project",
-		"/Users/toni/Desktop/projects/carousel/.gitignore",
-		"/Users/toni/Desktop/projects/carousel/changelog.txt",
-		"/Users/toni/Desktop/projects/carousel/README.md",
-		"/Users/toni/Desktop/projects/carousel/.jshintrc",
-		"/Users/toni/Desktop/projects/carousel/node_modules/jshint/node_modules/exit/.jshintrc",
-		"/Users/toni/Desktop/projects/carousel/node_modules/jshint/node_modules/shelljs/.jshintrc",
-		"/Users/toni/Desktop/projects/carousel/untitled.sublime-project"
+		"/Users/toni/Desktop/projects/bronksknifeworks/bronksknifeworks.sublime-project",
+		"/Users/toni/Desktop/projects/sandbox/.gitignore",
+		"/Users/toni/Desktop/projects/sandbox/README.md",
+		"/Users/toni/Desktop/projects/sandbox/sandbox.sublime-project",
+		"/Users/toni/Desktop/projects/ticktacotoe/ticktacotoe.sublime-project",
+		"/Users/toni/Desktop/projects/ticktacotoe/README.md",
+		"/Users/toni/Desktop/projects/ticktacotoe/index.html",
+		"/Users/toni/Desktop/projects/ticktacotoe/style.css",
+		"/Users/toni/Desktop/projects/ticktacotoe/.gitignore",
+		"/Users/toni/Desktop/projects/ticktacotoe/main.js",
+		"/Users/toni/Desktop/projects/ticktacotoe/player.js",
+		"/ticktacotoe.sublime-project",
+		"/Users/toni/Desktop/if-then test.html",
+		"/Users/toni/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/toni/Desktop/Random $H17 /test.js",
+		"/Users/toni/Desktop/if then test.js",
+		"/Users/toni/Desktop/does this work.html",
+		"/Users/toni/Desktop/Hello World.html",
+		"/Users/toni/Desktop/does this work.js",
+		"/Users/toni/Desktop/Clock.css",
+		"/Users/toni/Desktop/Clock.html",
+		"/Users/toni/Desktop/Clock.js",
+		"/Users/toni/Desktop/googlemaps.js",
+		"/Users/toni/Desktop/test.js",
+		"/Users/toni/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/toni/Desktop/url-shortener for fun editing.html"
 	],
 	"find":
 	{
@@ -244,9 +165,6 @@
 		"height": 0.0,
 		"where_history":
 		[
-			"",
-			".css",
-			""
 		]
 	},
 	"find_state":
@@ -254,128 +172,69 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"\"",
-			"5, 10, 13, 19, 21, 25, 22, 18, 15, 13, 11, 12, 15, 20, 18, 17, 16, 18, 23, 25",
-			"\"",
-			"stroke",
-			"\"/",
-			"\"",
+			"playernu",
+			"turn",
+			"hasWinner",
+			"startPlayerTickAnimation",
+			"animationTouse",
+			"tickAnimation",
+			"height",
+			"10",
+			"display",
+			"=======",
+			"<<<<<<<",
+			"setTurn",
+			"player1TickAnimation",
+			"playerNumber",
+			"animationTouse",
+			"setTurn",
+			"display",
+			"width",
+			"display",
+			"400px",
+			"  display: none;\n",
+			"4oopx",
+			"29",
+			"50",
 			"false",
-			"Year",
-			"title",
-			"cat1",
-			"slide",
-			"slides",
-			"img/",
-			"img",
-			"panel4",
-			"panel3",
-			"Silly",
-			"Silly Content Goes Here",
-			"300",
+			"true",
+			"false",
+			"+",
+			"pulsetimer",
+			"+",
+			"+        ",
+			"pulseTimer",
 			"1",
-			"666",
-			".btn-primary:hover",
-			"active",
-			"tabs",
-			"panel",
-			"panel1",
-			"active",
-			"tabs",
-			"tab-panels",
-			"panels",
-			"panel1",
-			"Here",
-			"active",
-			"panel4",
-			"class=\"refresh\"",
-			"refreshId",
-			"refreshid",
-			"a-refresh",
-			"refresh",
-			"panel-body",
-			"panelId",
-			"efresh\">",
-			"div",
-			"Reset Me",
-			" class=\"refresh\"",
-			"click",
-			"Silly",
-			"Panel ",
-			"Panel",
-			"heading",
-			"hoverbutton",
-			"block",
-			"hoverbutton",
-			"clickbutton",
-			"hoverbutton",
-			"btn1",
-			"btn3",
-			"btn2",
-			"type=\"button\"",
-			">Button",
-			"Button ",
-			"button",
-			"Button",
-			"mouseover",
-			"btn-",
-			"btn",
-			":",
-			"      <div class=\"row row-centered\">\n",
-			"col",
-			"sm",
-			":",
-			"centered",
-			"col",
-			".col-sm-4",
-			"btn ",
-			"node_modules",
-			"bootstrap/",
-			"/bootstrap",
-			"slider_option",
-			"slider-option",
-			"<li>",
-			"i>",
-			"li",
-			"thirdgen",
-			"thirdgenknife",
-			"200",
 			"\n",
-			"1",
-			"h1",
-			"h2",
-			"h1",
-			"                    ",
-			"hr",
-			"#fff",
-			"body {",
-			"About",
-			"col-lg-2",
-			"col-lg",
-			"<div class=\"well\">",
-			"One",
-			" goes here",
-			"class=\"active\"",
-			"danger",
-			"warning",
-			"info",
-			"First",
-			"md",
-			"lg",
-			"Third",
-			"second",
-			"first",
-			"background-color",
-			"shiv",
-			"h2",
-			"h1",
-			"none",
-			"carousel-caption",
-			"h2",
-			"h1",
-			"\"",
-			"h2",
-			"h1"
+			"sidebar",
+			"is",
+			"this",
+			"beautiful",
+			"!\n",
+			"feckin",
+			"this",
+			"beautiful",
+			"paths",
+			"/**",
+			"*/",
+			"else",
+			"html",
+			"Script",
+			"name",
+			"Form",
+			"BODY",
+			"body",
+			"Head",
+			"input",
+			"everything",
+			"this",
+			" \n",
+			"href",
+			"toggle",
+			"navbar",
+			"htmlnavbar",
+			">\n",
+			" \n"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -393,84 +252,28 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "visualization.sublime-project",
 					"settings":
 					{
-						"buffer_size": 2479,
+						"buffer_size": 336,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2459,
-								2459
+								336,
+								336
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 324.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "main.css",
-					"settings":
-					{
-						"buffer_size": 164,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								119,
-								119
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "main.js",
-					"settings":
-					{
-						"buffer_size": 389,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								250,
-								250
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -483,11 +286,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"input":
 	{
-		"height": 31.0
+		"height": 0.0
 	},
 	"layout":
 	{
@@ -512,13 +315,9 @@
 		]
 	},
 	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 98.0
-	},
 	"replace":
 	{
-		"height": 0.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -527,12 +326,12 @@
 		"selected_items":
 		[
 			[
-				".jshintrc",
-				"/Users/toni/Desktop/projects/openseadragon/.jshintrc"
+				"body",
+				"body{"
 			],
 			[
-				".jshint",
-				"node_modules/jshint/node_modules/exit/.jshintrc"
+				"",
+				"/Users/toni/Desktop/test.js"
 			]
 		],
 		"width": 0.0
@@ -543,20 +342,36 @@
 		"selected_items":
 		[
 			[
-				"",
-				"/Users/toni/Desktop/projects/knifesite/knifesite.sublime-project"
+				"bronks",
+				"/Users/toni/Desktop/projects/bronksknifeworksv1/bronksknifeworks.sublime-project"
 			],
 			[
-				"knife",
-				"/Users/toni/Desktop/projects/knifesite/knifesite.sublime-project"
+				"sand",
+				"/Users/toni/Desktop/projects/sandbox/sandbox/sandbox.sublime-project"
+			],
+			[
+				"agu",
+				"/Users/toni/Desktop/projects/angularjs-practice/angular-practice.sublime-project"
+			],
+			[
+				"",
+				"/Users/toni/Desktop/projects/ticktacotoe/js-toys.sublime-project"
+			],
+			[
+				"ope",
+				"/Users/toni/Desktop/projects/openseadragon/openseadragon.sublime-project"
+			],
+			[
+				"js",
+				"/Users/toni/Desktop/projects/ticktacotoe/js-toys.sublime-project"
 			]
 		],
 		"width": 380.0
 	},
-	"show_minimap": false,
+	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 247.0,
+	"side_bar_width": 180.0,
 	"status_bar_visible": true
 }
